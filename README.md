@@ -1,7 +1,7 @@
 # EDA_OlympicsDataSet
 The dataset contains a subset of the sport "Rowing",until the year 2016.__
 SIZE: 
-Convlusions are drawn after:__
+Convlusions are drawn after:<br/>
 1- Cleaning the data__
 2- Visualizing the distribution of age of silver medalists.__
 3-Adding a column BMI after calculating BMI of individual athletes.(Additional)__
